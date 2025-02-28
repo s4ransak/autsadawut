@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@100..900&display=swap');
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css");
 
 * {
     font-family: 'Noto Sans Thai', sans-serif;
@@ -13,14 +14,14 @@ body {
 }
 
 header {
-    background: url('https://i.natgeofe.com/n/2a832501-483e-422f-985c-0e93757b7d84/6.jpg?w=1436&h=1078') no-repeat center center/cover;
+    background: url('header-img.jpg') no-repeat center center/cover;
     color: white;
     text-align: center;
     padding: 100px 20px;
 }
 
 header h1 {
-    font-size: 50px;
+    font-size: 60px;
 }
 
 section {
@@ -37,7 +38,7 @@ section {
 }
 
 a {
-    color: #007fff;
+    color: #002aff;
     text-decoration: none;
 }
 
